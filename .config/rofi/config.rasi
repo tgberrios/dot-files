@@ -1,0 +1,96 @@
+* {
+    /* Paleta OneBitLight - Blanco y Negro Puro */
+    font: "JetBrainsMono Nerd Font 13";
+    g-spacing: 0px;
+    g-margin: 0;
+
+    bg-color: #FFFFFF;          /* Blanco Puro */
+    fg-color: #000000;          /* Negro Puro */
+    fgp-color: #888888;         /* Gris para el placeholder */
+
+    b-radius: 0px;              /* Cuadrado */
+    g-padding: 10px;
+
+    hl-color: #000000;          /* Fondo Negro al seleccionar */
+    hlt-color: #FFFFFF;         /* Texto Blanco al seleccionar */
+
+    w-border: 2px;              /* Borde fino negro */
+    w-border-color: #000000;
+
+    background-color: transparent;
+}
+
+configuration {
+    modi: "drun";
+    show-icons: false;          /* SIN ICONOS */
+    display-drun: "";           /* ELIMINADA LA FLECHA TERRIBLE */
+    drun-display-format: "{name}";
+}
+
+window {
+    width: 450px;
+    enabled: true;
+    border-radius: @b-radius;
+    background-color: @bg-color;
+    border: @w-border;
+    border-color: @w-border-color;
+    padding: 0px;
+}
+
+mainbox {
+    enabled: true;
+    spacing: 0px;
+    background-color: @bg-color; /* Asegura fondo blanco */
+    children: ["inputbar", "listview"];
+}
+
+inputbar {
+    enabled: true;
+    padding: 15px;
+    background-color: @bg-color;
+    border: 0 0 2px 0;          /* Línea divisoria fina */
+    border-color: @fg-color;
+    children: ["entry"];        /* Solo la caja de texto */
+}
+
+entry {
+    placeholder: "Search...";
+    text-color: @fg-color;
+    placeholder-color: @fgp-color;
+}
+
+listview {
+    columns: 1;
+    lines: 8;
+    fixed-height: true;
+    cycle: false;
+    scrollbar: false;
+    border: 0px;
+    margin: 0px;
+    background-color: @bg-color; /* Quita cualquier fondo extraño */
+}
+
+element {
+    cursor: pointer;
+    border-radius: 0px;
+    padding: 8px 15px;
+    background-color: @bg-color; /* Fondo blanco para cada app */
+    text-color: @fg-color;
+}
+
+element-text {
+    text-color: inherit;
+    background-color: transparent;
+    vertical-align: 0.5;
+}
+
+/* Esto quita el fondo amarillo/gris de las filas alternas */
+element normal.normal, element alternate.normal {
+    background-color: @bg-color;
+    text-color: @fg-color;
+}
+
+element selected.normal {
+    background-color: @hl-color; /* Fondo Negro */
+    text-color: @hlt-color;      /* Texto Blanco */
+}

@@ -1,0 +1,29 @@
+# --- GHOSTTY CONFIG: CLEAN & SOLID ---
+
+# Tema y Fuente
+theme = "OneBitLight"
+font-family = "JetBrainsMono Nerd Font"
+font-size = 19
+
+# FORZAR BLANCO Y NEGRO PURO (Añade estas 2 líneas)
+background = #ffffff
+foreground = #000000
+
+# Ventana (Sin transparencia)
+window-padding-x = 12
+window-padding-y = 12
+window-decoration = false
+
+# Fondo Sólido
+background-opacity = 1.0
+background-blur = false
+
+# Cursor
+cursor-style = block
+cursor-color = #007aff
+
+# Mouse
+mouse-hide-while-typing = true
+
+# Otras opciones confirmadas
+confirm-close-surface = false

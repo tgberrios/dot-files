@@ -1,0 +1,124 @@
+{
+    "layer": "top",
+    "position": "top",
+    "output": "HDMI-A-2",
+    "height": 38,
+    "modules-left": ["hyprland/workspaces","custom/updates", "hyprland/window", "mpris"],
+    "modules-center": ["clock"],
+    "modules-right": ["custom/weather", "custom/gpu","cpu", "memory", "idle_inhibitor", "network", "pulseaudio", "custom/notification", "custom/reboot", "custom/suspend", "custom/power"],
+
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "active-only": false,
+        "all-outputs": false,
+        "warp-on-scroll": false,
+        "format-icons": {
+            "active": "■",
+            "default": "□",
+            "persistent": "□"
+        },
+        "persistent-workspaces": {
+            "HDMI-A-2": 5
+        }
+    },
+
+    "pulseaudio": {
+    	"format": "VOL:{volume}%",
+    	"format-muted": "VOL:MUT",
+    	"on-click": "pavucontrol", 
+    	"on-click-right": "pamixer -t",
+    	"on-scroll-up": "pamixer -i 5",
+    	"on-scroll-down": "pamixer -d 5",
+    	"scroll-step": 5
+    },
+
+    "mpris": {
+        "format": "[ {title} ]",
+        "format-paused": "[  {title} ]",
+        "max-length": 45,
+        "on-click": "playerctl play-pause",
+        "on-scroll-up": "playerctl next",
+        "on-scroll-down": "playerctl previous"
+    },
+
+    "clock": {
+        "format": "{:%d/%m | %H:%M}"
+    },
+
+    "cpu": { "format": "CPU:{usage}%" },
+
+    "memory": { "format": "RAM:{used}G" },
+
+    "network": {
+        "format-ethernet": "ETH:ON",
+        "format-wifi": "WIFI:{signalStrength}%",
+        "format-disconnected": "NET:OFF"
+    },
+
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "[ON]",
+            "deactivated": "[OFF]"
+        }
+    },
+
+    "custom/volume": {
+        "exec": "pamixer --get-volume-human",
+        "interval": 1,
+        "format": "VOL:{}",
+        "on-click": "pavucontrol",
+        "on-scroll-up": "pamixer -i 5",
+        "on-scroll-down": "pamixer -d 5"
+    },
+
+    "custom/notification": {
+        "format": "[!]"
+    },
+    
+    "custom/reboot": {
+        "format": "[R]",
+        "on-click": "systemctl reboot",
+        "tooltip-format": "Reiniciar sistema"
+    },
+    "custom/suspend": {
+        "format": "[S]",
+        "on-click": "systemctl suspend",
+        "tooltip-format": "Suspender equipo"
+    },
+
+    "custom/power": {
+        "format": "[OFF]",
+        "on-click": "systemctl poweroff",
+        "tooltip-format": "Apagar sistema"
+    },
+   
+    "custom/gpu": {
+        "exec": "cat /sys/class/drm/card1/device/gpu_busy_percent",
+        "interval": 2,
+        "format": "GPU:{}%",
+        "tooltip": false
+    },
+
+    "custom/weather": {
+        "exec": "curl -s 'wttr.in/San+Jose+Costa+Rica?format=%t' | sed 's/+//'",
+        "interval": 3600,
+        "format": "WTTR:{}",
+        "tooltip": true
+    },
+
+    "custom/updates": {
+        "format": "UPDT:{}",
+        "exec": "checkupdates | wc -l",
+        "interval": 3600,
+        "on-click": "ghostty -e sudo pacman -Syu",
+        "tooltip": false
+    },
+ 
+    "hyprland/window": {
+        "format": "▷ {title}",
+        "separate-outputs": true,
+        "max-length": 35
+    }
+ 
+} 

@@ -1,0 +1,71 @@
+* {
+    font-family: "JetBrainsMono Nerd Font";
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+window#waybar {
+    background-color: #ffffff;
+    color: #000000;
+    border-bottom: 2px solid #000000;
+}
+
+#pulseaudio:hover {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+#workspaces, 
+#mpris, 
+#clock, 
+#cpu, 
+#memory, 
+#idle_inhibitor,
+#custom-gpu,
+#custom-weather,
+#custom-updates,
+#window, 
+#network, 
+#pulseaudio, 
+#custom-notification {
+    padding: 0 16px;
+    margin: 5px 0;
+}
+
+#workspaces button {
+    color: #000000;
+    padding: 0 5px;
+}
+
+#workspaces button.active {
+    border-bottom: 2px solid #000000;
+}
+
+#cpu, 
+#memory, 
+#pulseaudio, 
+#idle_inhibitor, 
+#network, 
+#clock {
+    color: #000000;
+    background-color: transparent;
+}
+
+/* Añade los IDs a la lista de padding para que no estén pegados */
+#custom-reboot, #custom-suspend, #custom-power {
+    padding: 0 10px;
+    color: #000000;
+}
+
+#workspaces button.active {
+    color: #000000;
+    border-bottom: 2px solid #000000;
+}
+
+#workspaces button.urgent {
+    background-color: #eb4d4b;
+}

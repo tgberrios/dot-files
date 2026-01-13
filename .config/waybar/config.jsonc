@@ -1,0 +1,19 @@
+{
+    "layer": "top",
+    "position": "top",
+    "margin-top": 10,
+    "margin-left": 15,
+    "margin-right": 15,
+    "spacing": 5,
+    "modules-left": ["hyprland/workspaces", "cpu", "memory"],
+    "modules-center": ["clock"],
+    "modules-right": ["pulseaudio", "network", "tray", "custom/power"],
+
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "default": "",
+            "active": ""
+        }
+    }
+}
