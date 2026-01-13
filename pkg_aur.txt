@@ -1,4 +1,6 @@
+badwolf
 bibata-cursor-theme-bin
+browsh-bin
 cbonsai
 cursor-bin
 jetbrains-toolbox
