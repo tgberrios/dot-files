@@ -86,7 +86,6 @@ unzip
 uwsm
 vim
 vulkan-radeon
-w3m
 waybar
 wev
 wget
