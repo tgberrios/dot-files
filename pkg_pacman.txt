@@ -77,7 +77,6 @@ sudo
 swww
 tealdeer
 terminus-font
-timeshift
 ttf-dejavu
 ttf-jetbrains-mono-nerd
 ttf-liberation
