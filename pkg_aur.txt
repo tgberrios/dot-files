@@ -9,6 +9,7 @@ mssql-server
 mssql-tools
 nmail
 onedrive-abraunegg
+pipes.sh
 sddm-sugar-candy-git
 spleen-font
 tamsyn-font
