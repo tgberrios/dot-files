@@ -3,6 +3,8 @@ cbonsai
 cursor-bin
 jetbrains-toolbox
 libldap24
+mongodb-bin
+mongodb-tools-bin
 msodbcsql
 msodbcsql17
 mssql-server

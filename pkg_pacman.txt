@@ -45,6 +45,7 @@ linux
 linux-firmware
 mako
 mangohud
+mariadb
 mariadb-libs
 mgba-qt
 mongo-c-driver
