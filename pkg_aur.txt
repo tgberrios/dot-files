@@ -1,4 +1,5 @@
 bibata-cursor-theme-bin
+brave-bin
 cbonsai
 cursor-bin
 jetbrains-toolbox
