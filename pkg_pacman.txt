@@ -2,7 +2,9 @@
 adobe-source-code-pro-fonts
 amd-ucode
 arch-wiki-lite
+arrow
 asciiquarium
+aws-sdk-cpp
 base
 base-devel
 bat
@@ -68,6 +70,7 @@ qt5-quickcontrols2
 qt5-svg
 qt5-wayland
 qt6-wayland
+qutebrowser
 retroarch
 rofi
 sddm
