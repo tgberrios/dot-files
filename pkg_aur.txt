@@ -16,7 +16,9 @@ pipes.sh
 sddm-sugar-candy-git
 spleen-font
 tamsyn-font
+vencord
 ventoy-bin
+vesktop-bin
 windows-xp-icon-theme
 yay
 yay-debug

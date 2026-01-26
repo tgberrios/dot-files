@@ -13,6 +13,9 @@ calcurse
 cava
 cliphist
 cmake
+code
+docker
+docker-compose
 dolphin
 dunst
 efibootmgr
@@ -42,6 +45,7 @@ kitty
 lib32-mangohud
 libnotify
 libpqxx
+libreoffice-fresh
 libretro-mgba
 linux
 linux-firmware
