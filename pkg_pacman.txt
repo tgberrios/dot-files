@@ -13,7 +13,6 @@ calcurse
 cava
 cliphist
 cmake
-code
 docker
 docker-compose
 dolphin

@@ -19,6 +19,7 @@ tamsyn-font
 vencord
 ventoy-bin
 vesktop-bin
+visual-studio-code-bin
 windows-xp-icon-theme
 yay
 yay-debug
