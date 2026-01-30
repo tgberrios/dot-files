@@ -41,6 +41,7 @@ i2c-tools
 iwd
 jq
 kitty
+less
 lib32-mangohud
 libnotify
 libpqxx

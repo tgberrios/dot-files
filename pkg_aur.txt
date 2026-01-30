@@ -2,6 +2,7 @@ bibata-cursor-theme-bin
 brave-bin
 cbonsai
 cursor-bin
+ftxui
 jetbrains-toolbox
 libldap24
 mongodb-bin
