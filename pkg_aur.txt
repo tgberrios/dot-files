@@ -1,5 +1,4 @@
 bibata-cursor-theme-bin
-brave-bin
 cbonsai
 cursor-bin
 ftxui
@@ -18,10 +17,7 @@ sddm-sugar-candy-git
 spleen-font
 tamsyn-font
 vencord
-ventoy-bin
 vesktop-bin
-visual-studio-code-bin
 windows-xp-icon-theme
 yay
 yay-debug
-zen-browser-bin

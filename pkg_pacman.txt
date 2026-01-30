@@ -15,7 +15,6 @@ cliphist
 cmake
 docker
 docker-compose
-dolphin
 dunst
 efibootmgr
 exfatprogs
@@ -28,7 +27,6 @@ fzf
 ghostty
 git
 gnome-disk-utility
-goverlay
 grim
 gst-plugins-bad
 gst-plugins-good
@@ -40,7 +38,6 @@ hyprlock
 i2c-tools
 iwd
 jq
-kitty
 less
 lib32-mangohud
 libnotify
@@ -62,7 +59,6 @@ networkmanager
 noto-fonts
 noto-fonts-emoji
 npm
-obsidian
 pamixer
 pavucontrol
 pipewire-pulse
