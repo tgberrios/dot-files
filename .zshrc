@@ -37,3 +37,4 @@ alias zconf='micro ~/.zshrc'
 alias rb='killall waybar; waybar &'
 
 alias c='cursor --ozone-platform-hint=auto --enable-features=WaylandWindowDecorations'
+export PATH="$HOME/.local/bin:$PATH"
