@@ -65,6 +65,7 @@ pipewire-pulse
 plymouth
 polkit-kde-agent
 postgresql
+python-pip
 qt5-graphicaleffects
 qt5-quickcontrols2
 qt5-svg
