@@ -19,6 +19,7 @@ spleen-font
 tamsyn-font
 vencord
 vesktop-bin
+visual-studio-code-bin
 windows-xp-icon-theme
 yay
 yay-debug
