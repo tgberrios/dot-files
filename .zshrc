@@ -17,7 +17,7 @@ eval "$(zoxide init zsh)"
 
 # 5. Aliases (Same as your bashrc)
 alias grep='grep --color=auto'
-alias ls='eza --tree --icons --group-directories-first --level=2'
+alias ls='eza --tree --icons --group-directories-first --level=1'
 alias ll='eza -l --icons --group-directories-first'
 alias tree='eza --tree --icons'
 alias cd='z'
