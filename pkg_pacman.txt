@@ -57,6 +57,7 @@ nano
 neovim
 network-manager-applet
 networkmanager
+newsboat
 noto-fonts
 noto-fonts-emoji
 npm

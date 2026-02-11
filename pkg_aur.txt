@@ -17,6 +17,7 @@ pipes.sh
 sddm-sugar-candy-git
 spleen-font
 tamsyn-font
+tenki
 vencord
 vesktop-bin
 visual-studio-code-bin
