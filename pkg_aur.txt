@@ -1,3 +1,4 @@
+bagels
 bibata-cursor-theme-bin
 cbonsai
 cursor-bin
@@ -10,10 +11,12 @@ msodbcsql
 msodbcsql17
 mssql-server
 mssql-tools
+musikcube-bin
 nmail
 onedrive-abraunegg
 openrazer-meta-git
 pipes.sh
+reddit-tui
 sddm-sugar-candy-git
 spleen-font
 tamsyn-font

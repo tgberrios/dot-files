@@ -68,6 +68,7 @@ plymouth
 polkit-kde-agent
 postgresql
 python-pip
+python-setuptools
 qt5-graphicaleffects
 qt5-quickcontrols2
 qt5-svg
@@ -82,8 +83,10 @@ smartmontools
 starship
 sudo
 swww
+taskwarrior-tui
 tealdeer
 terminus-font
+termusic
 ttf-dejavu
 ttf-jetbrains-mono-nerd
 ttf-liberation
