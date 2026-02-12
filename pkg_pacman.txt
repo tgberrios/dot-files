@@ -9,7 +9,7 @@ base
 base-devel
 bat
 btop
-calcurse
+calc
 cava
 cliphist
 cmake
