@@ -86,7 +86,6 @@ swww
 taskwarrior-tui
 tealdeer
 terminus-font
-termusic
 ttf-dejavu
 ttf-jetbrains-mono-nerd
 ttf-liberation
