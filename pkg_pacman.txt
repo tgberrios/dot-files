@@ -112,6 +112,7 @@ xorg-server
 xorg-xev
 xorg-xinit
 yazi
+yt-dlp
 zip
 zoxide
 zram-generator
