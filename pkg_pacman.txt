@@ -28,6 +28,7 @@ fzf
 ghostty
 git
 gnome-disk-utility
+grafana
 grim
 gst-plugins-bad
 gst-plugins-good
