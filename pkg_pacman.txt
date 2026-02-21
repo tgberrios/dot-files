@@ -33,6 +33,7 @@ grim
 gst-plugins-bad
 gst-plugins-good
 gst-plugins-ugly
+hiredis
 htop
 hypridle
 hyprland
@@ -69,6 +70,7 @@ plymouth
 polkit-kde-agent
 postgresql
 python-pip
+python-psycopg2
 python-setuptools
 qt5-graphicaleffects
 qt5-quickcontrols2
@@ -94,6 +96,7 @@ unixodbc
 unrar
 unzip
 uwsm
+valkey
 vim
 vulkan-radeon
 waybar
