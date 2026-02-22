@@ -100,7 +100,6 @@ uwsm
 valkey
 vim
 vulkan-radeon
-waybar
 wev
 wget
 wireless_tools
