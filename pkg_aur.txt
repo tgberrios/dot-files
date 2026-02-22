@@ -1,8 +1,10 @@
 bagels
 bibata-cursor-theme-bin
+browsh-bin
 cbonsai
 cursor-bin
 ftxui
+harlequin
 jetbrains-toolbox
 libldap24
 mongodb-bin
@@ -21,6 +23,8 @@ sddm-sugar-candy-git
 spleen-font
 tamsyn-font
 tenki
+ttf-monaco
+tty-clock
 vencord
 vesktop-bin
 visual-studio-code-bin
