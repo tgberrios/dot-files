@@ -5,6 +5,7 @@ cbonsai
 cursor-bin
 ftxui
 harlequin
+jetbrains-fleet
 jetbrains-toolbox
 libldap24
 mongodb-bin
