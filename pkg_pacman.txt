@@ -85,6 +85,7 @@ sddm
 slurp
 smartmontools
 starship
+steam
 sudo
 swww
 taskwarrior-tui
