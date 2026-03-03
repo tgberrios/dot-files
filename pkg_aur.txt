@@ -29,6 +29,7 @@ tty-clock
 vencord
 vesktop-bin
 visual-studio-code-bin
+wego
 windows-xp-icon-theme
 yay
 yay-debug
