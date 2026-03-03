@@ -88,7 +88,6 @@ starship
 steam
 sudo
 swww
-taskwarrior-tui
 tealdeer
 terminus-font
 ttf-dejavu
