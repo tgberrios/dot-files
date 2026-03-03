@@ -10,7 +10,6 @@ base-devel
 bat
 btop
 calc
-cava
 cliphist
 cmake
 cmus
