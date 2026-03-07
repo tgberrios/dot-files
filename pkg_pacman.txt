@@ -13,7 +13,6 @@ calc
 cava
 cliphist
 cmake
-cmus
 docker
 docker-compose
 dunst
