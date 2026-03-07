@@ -1,6 +1,7 @@
 bagels
 bibata-cursor-theme-bin
 cbonsai
+cppman
 cursor-bin
 ftxui
 harlequin
