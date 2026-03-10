@@ -8,7 +8,7 @@ aws-sdk-cpp
 base
 base-devel
 bat
-btop
+bottom
 calc
 cava
 cliphist
@@ -24,16 +24,13 @@ fd
 ffmpegthumbnailer
 flatpak
 fzf
-ghostty
 git
-gnome-disk-utility
 grafana
 grim
 gst-plugins-bad
 gst-plugins-good
 gst-plugins-ugly
 hiredis
-htop
 hypridle
 hyprland
 hyprlock

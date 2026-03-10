@@ -86,3 +86,4 @@ export PATH="$HOME/.cargo/bin:$PATH"
 
 # 13. Bienvenida + fastfetch (cada vez que abres una terminal)
 [[ -o interactive ]] && { print -P '%F{#9aab9e}%D{%Y-%m-%d %H:%M} —%f'; fa }
+export PATH="$HOME/.npm-global/bin:$PATH"

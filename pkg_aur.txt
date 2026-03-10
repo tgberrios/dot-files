@@ -4,9 +4,8 @@ cbonsai
 cppman
 cursor-bin
 ftxui
+gpp
 harlequin
-jetbrains-fleet
-jetbrains-toolbox
 libldap24
 mongodb-bin
 mongodb-tools-bin
@@ -28,7 +27,6 @@ ttf-monaco
 tty-clock
 vencord
 vesktop-bin
-visual-studio-code-bin
 wego
 windows-xp-icon-theme
 yay
