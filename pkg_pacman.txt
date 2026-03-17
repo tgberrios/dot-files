@@ -25,7 +25,6 @@ ffmpegthumbnailer
 flatpak
 fzf
 git
-grafana
 grim
 gst-plugins-bad
 gst-plugins-good
