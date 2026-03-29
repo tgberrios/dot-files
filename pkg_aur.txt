@@ -6,6 +6,7 @@ cursor-bin
 ftxui
 gpp
 harlequin
+icat
 jetbrains-toolbox
 libldap24
 mongodb-bin

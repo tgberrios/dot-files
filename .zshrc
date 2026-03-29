@@ -72,7 +72,8 @@ alias conf='micro ~/.config/hypr/hyprland.conf'
 alias zconf='micro ~/.zshrc'
 alias rb='killall waybar; waybar &'
 alias download='cd /home/iks/Music && yt-dlp -x --audio-format mp3 --audio-quality 0 --embed-thumbnail --add-metadata'
-alias c='cursor --ozone-platform-hint=auto --enable-features=WaylandWindowDecorations'
+alias hydra='/home/iks/Documents/Games/Hydra/hydralauncher-3.9.4.AppImage'
+
 
 # 11. Key bindings
 bindkey '^[[1;5C' forward-word          # Ctrl+Right: palabra siguiente
