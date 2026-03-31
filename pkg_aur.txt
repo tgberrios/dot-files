@@ -1,5 +1,4 @@
 bagels
-beeper-v4-bin
 bibata-cursor-theme-bin
 cbonsai
 cppman
