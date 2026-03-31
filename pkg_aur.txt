@@ -1,4 +1,5 @@
 bagels
+beeper-v4-bin
 bibata-cursor-theme-bin
 cbonsai
 cppman
@@ -9,6 +10,8 @@ harlequin
 icat
 jetbrains-toolbox
 libldap24
+mautrix-discord-bin
+mautrix-whatsapp-bin
 mongodb-bin
 mongodb-tools-bin
 msodbcsql

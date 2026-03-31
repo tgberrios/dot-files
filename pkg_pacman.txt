@@ -5,6 +5,7 @@ arch-wiki-lite
 arrow
 asciiquarium
 aws-sdk-cpp
+awww
 base
 base-devel
 bat
@@ -24,7 +25,11 @@ fd
 ffmpegthumbnailer
 flatpak
 fzf
+ghostty
 git
+gnome-keyring
+go
+gomuks
 grim
 gst-plugins-bad
 gst-plugins-good
@@ -56,6 +61,7 @@ neovim
 network-manager-applet
 networkmanager
 newsboat
+nheko
 noto-fonts
 noto-fonts-emoji
 npm
@@ -82,7 +88,6 @@ smartmontools
 starship
 steam
 sudo
-swww
 tealdeer
 terminus-font
 ttf-dejavu
