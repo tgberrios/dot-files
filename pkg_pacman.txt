@@ -34,7 +34,6 @@ gst-plugins-bad
 gst-plugins-good
 gst-plugins-ugly
 hiredis
-hypridle
 hyprland
 hyprlock
 i2c-tools
@@ -89,7 +88,6 @@ steam
 sudo
 tealdeer
 terminus-font
-tmux
 ttf-dejavu
 ttf-jetbrains-mono-nerd
 ttf-liberation
@@ -116,6 +114,7 @@ xorg-server
 xorg-xev
 xorg-xinit
 yt-dlp
+zellij
 zip
 zoxide
 zram-generator
