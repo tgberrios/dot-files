@@ -113,6 +113,7 @@ xf86-video-ati
 xorg-server
 xorg-xev
 xorg-xinit
+ydotool
 yt-dlp
 zellij
 zip
