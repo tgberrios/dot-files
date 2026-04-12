@@ -104,6 +104,7 @@ wireplumber
 wl-clipboard
 wofi
 wpa_supplicant
+wtype
 xdg-desktop-portal-gtk
 xdg-desktop-portal-hyprland
 xdg-utils
