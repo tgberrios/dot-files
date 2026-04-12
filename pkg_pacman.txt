@@ -35,7 +35,6 @@ gst-plugins-good
 gst-plugins-ugly
 hiredis
 hyprland
-hyprlock
 i2c-tools
 iwd
 jq
