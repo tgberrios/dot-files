@@ -21,6 +21,7 @@ musikcube-bin
 nmail
 onedrive-abraunegg
 openrazer-meta-git
+paru
 pipes.sh
 reddit-tui
 sddm-sugar-candy-git
@@ -29,6 +30,7 @@ tamsyn-font
 tenki
 ttf-monaco
 tty-clock
+tuisic-git
 vencord
 vesktop-bin
 wego
