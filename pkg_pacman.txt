@@ -11,6 +11,7 @@ base
 base-devel
 bat
 bottom
+btop
 calc
 cava
 cliphist
