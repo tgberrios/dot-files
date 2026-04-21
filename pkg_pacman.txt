@@ -42,6 +42,7 @@ iwd
 jq
 kew
 kitty
+lazydocker
 less
 lib32-mangohud
 libnotify
@@ -64,9 +65,11 @@ network-manager-applet
 networkmanager
 newsboat
 nheko
+nnn
 noto-fonts
 noto-fonts-emoji
 npm
+nvtop
 pamixer
 pavucontrol
 pipewire-pulse
@@ -90,6 +93,7 @@ smartmontools
 starship
 steam
 sudo
+superfile
 tealdeer
 terminus-font
 tmux
@@ -120,6 +124,7 @@ xf86-video-ati
 xorg-server
 xorg-xev
 xorg-xinit
+yazi
 ydotool
 yt-dlp
 zellij
