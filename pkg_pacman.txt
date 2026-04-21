@@ -92,6 +92,7 @@ steam
 sudo
 tealdeer
 terminus-font
+tmux
 ttf-dejavu
 ttf-jetbrains-mono-nerd
 ttf-liberation
