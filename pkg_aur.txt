@@ -3,7 +3,6 @@ bibata-cursor-theme-bin
 cbonsai
 cppman
 cursor-bin
-discordo-git
 ftxui
 gpp
 harlequin
