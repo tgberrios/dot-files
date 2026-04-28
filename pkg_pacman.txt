@@ -34,6 +34,7 @@ grim
 gst-plugins-bad
 gst-plugins-good
 gst-plugins-ugly
+heretek
 hiredis
 hyprland
 i2c-tools
@@ -42,6 +43,7 @@ jq
 kew
 kitty
 lazydocker
+lazygit
 less
 lib32-mangohud
 libnotify
@@ -84,6 +86,7 @@ qt5-svg
 qt5-wayland
 qt6-wayland
 qutebrowser
+rainfrog
 retroarch
 rofi
 sddm
@@ -95,6 +98,7 @@ sudo
 superfile
 tealdeer
 terminus-font
+termusic
 tmux
 ttf-dejavu
 ttf-jetbrains-mono-nerd
