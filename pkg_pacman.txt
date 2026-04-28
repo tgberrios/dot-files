@@ -30,7 +30,6 @@ fzf
 git
 gnome-keyring
 go
-gomuks
 grim
 gst-plugins-bad
 gst-plugins-good
