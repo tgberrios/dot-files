@@ -61,6 +61,7 @@ mongo-c-driver
 mpd
 nano
 ncmpcpp
+ncspot
 neovim
 network-manager-applet
 networkmanager
