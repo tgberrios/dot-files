@@ -20,6 +20,7 @@ docker
 docker-compose
 dunst
 efibootmgr
+emacs
 exfatprogs
 eza
 fastfetch

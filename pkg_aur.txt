@@ -23,7 +23,6 @@ onedrive-abraunegg
 openrazer-meta-git
 paru
 pipes.sh
-purple
 reddit-tui
 sddm-sugar-candy-git
 spleen-font
