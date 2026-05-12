@@ -5,13 +5,13 @@ add_newline = false
 format = "$directory$git_branch$git_status$character"
 
 [directory]
-style = "blue"
+style = "bold #000000"
 truncation_length = 3
 truncation_symbol = "…/"
 
 [character]
-success_symbol = "[❯](purple)"
-error_symbol = "[❯](red)"
+success_symbol = "[❯](#000000 bold)"
+error_symbol = "[❯](#666666 bold)"
 
 [git_branch]
 symbol = " "
