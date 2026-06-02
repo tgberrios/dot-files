@@ -13,7 +13,6 @@ bat
 bottom
 btop
 calc
-cava
 cliphist
 cmake
 docker

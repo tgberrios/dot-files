@@ -22,7 +22,7 @@ onedrive-abraunegg
 openrazer-meta-git
 paru
 pipes.sh
-reddit-tui
+rmpc-git
 sddm-sugar-candy-git
 spleen-font
 systemd-manager-tui
