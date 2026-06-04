@@ -52,12 +52,14 @@ libreoffice-fresh
 libretro-mgba
 linux
 linux-firmware
+lutris
 mako
 mangohud
 mariadb
 mariadb-libs
 mgba-qt
 mongo-c-driver
+mpc
 mpd
 nano
 ncmpcpp
