@@ -46,6 +46,7 @@ lazydocker
 lazygit
 less
 lib32-mangohud
+lib32-vulkan-radeon
 libnotify
 libpqxx
 libreoffice-fresh
