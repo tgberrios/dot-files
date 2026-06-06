@@ -19,7 +19,6 @@ docker
 docker-compose
 dunst
 efibootmgr
-emacs
 exfatprogs
 eza
 fastfetch
@@ -53,7 +52,6 @@ libreoffice-fresh
 libretro-mgba
 linux
 linux-firmware
-lutris
 mako
 mangohud
 mariadb
@@ -69,15 +67,12 @@ neovim
 network-manager-applet
 networkmanager
 newsboat
-nheko
-nnn
 noto-fonts
 noto-fonts-emoji
 npm
 nvtop
 obsidian
 pamixer
-pavucontrol
 pipewire-pulse
 plymouth
 polkit-kde-agent
@@ -92,7 +87,6 @@ qt5-wayland
 qt6-wayland
 qutebrowser
 rainfrog
-retroarch
 rofi
 sddm
 slurp
@@ -118,6 +112,7 @@ vulkan-radeon
 wev
 wget
 wireless_tools
+wiremix
 wireplumber
 wl-clipboard
 wofi
@@ -132,7 +127,6 @@ xf86-video-ati
 xorg-server
 xorg-xev
 xorg-xinit
-yazi
 ydotool
 yt-dlp
 zellij
