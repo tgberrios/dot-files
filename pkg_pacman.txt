@@ -25,6 +25,7 @@ fastfetch
 fd
 ffmpegthumbnailer
 flatpak
+freetds
 fzf
 git
 gnome-keyring
