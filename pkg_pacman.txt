@@ -49,6 +49,7 @@ lib32-mangohud
 lib32-vulkan-radeon
 libnotify
 libpqxx
+librdkafka
 libreoffice-fresh
 libretro-mgba
 linux
