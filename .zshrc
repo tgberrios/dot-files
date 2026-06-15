@@ -116,3 +116,6 @@ export PATH="$HOME/.cargo/bin:$PATH"
 # 13. Bienvenida + fastfetch (cada vez que abres una terminal)
 [[ -o interactive ]] && { print -P '%F{#757575}%D{%Y-%m-%d %H:%M} —%f'; f }
 export PATH="$HOME/.npm-global/bin:$PATH"
+
+# opencode
+export PATH=/home/iks/.opencode/bin:$PATH

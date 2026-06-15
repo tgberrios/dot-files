@@ -18,7 +18,6 @@ msodbcsql17
 mssql-server
 mssql-tools
 musikcube-bin
-nmail
 onedrive-abraunegg
 openrazer-meta-git
 paru

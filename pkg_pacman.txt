@@ -54,6 +54,7 @@ libreoffice-fresh
 libretro-mgba
 linux
 linux-firmware
+linux-headers
 mako
 mangohud
 mariadb
@@ -74,6 +75,7 @@ noto-fonts-emoji
 npm
 nvtop
 obsidian
+ollama-rocm
 pamixer
 pipewire-pulse
 plymouth
