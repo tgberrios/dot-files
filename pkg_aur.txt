@@ -1,5 +1,6 @@
 bagels
 bibata-cursor-theme-bin
+brave-bin
 cbonsai
 cppman
 cursor-bin

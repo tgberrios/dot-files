@@ -75,7 +75,6 @@ noto-fonts-emoji
 npm
 nvtop
 obsidian
-ollama-rocm
 pamixer
 pipewire-pulse
 plymouth
