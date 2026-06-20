@@ -73,7 +73,6 @@ newsboat
 noto-fonts
 noto-fonts-emoji
 npm
-nvtop
 obsidian
 pamixer
 pipewire-pulse

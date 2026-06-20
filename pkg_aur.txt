@@ -1,6 +1,5 @@
 bagels
 bibata-cursor-theme-bin
-brave-bin
 cbonsai
 cppman
 cursor-bin
@@ -8,7 +7,6 @@ ftxui
 gpp
 harlequin
 icat
-jetbrains-toolbox
 libldap24
 mautrix-discord-bin
 mautrix-whatsapp-bin
@@ -19,6 +17,7 @@ msodbcsql17
 mssql-server
 mssql-tools
 musikcube-bin
+nmail
 onedrive-abraunegg
 openrazer-meta-git
 paru
