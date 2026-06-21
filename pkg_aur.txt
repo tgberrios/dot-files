@@ -31,7 +31,6 @@ tenki
 topgrade
 ttf-monaco
 tty-clock
-tuisic-git
 vencord
 vesktop-bin
 wego
