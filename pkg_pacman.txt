@@ -59,13 +59,11 @@ mako
 mangohud
 mariadb
 mariadb-libs
-mgba-qt
 mongo-c-driver
 mpc
 mpd
 nano
 ncmpcpp
-ncspot
 neovim
 network-manager-applet
 networkmanager
