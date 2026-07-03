@@ -18,6 +18,7 @@ cmake
 docker
 docker-compose
 dunst
+dust
 efibootmgr
 exfatprogs
 eza
@@ -50,7 +51,6 @@ lib32-vulkan-radeon
 libnotify
 libpqxx
 librdkafka
-libreoffice-fresh
 libretro-mgba
 linux
 linux-firmware
@@ -77,8 +77,12 @@ pipewire-pulse
 plymouth
 polkit-kde-agent
 postgresql
+python-build
+python-flit
+python-installer
 python-pip
 python-psycopg2
+python-pyproject-hooks
 python-setuptools
 qt5-graphicaleffects
 qt5-quickcontrols2

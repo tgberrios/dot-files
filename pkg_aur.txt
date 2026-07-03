@@ -31,8 +31,6 @@ tenki
 topgrade
 ttf-monaco
 tty-clock
-vencord
-vesktop-bin
 wego
 windows-xp-icon-theme
 yay
